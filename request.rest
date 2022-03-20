@@ -1,0 +1,11 @@
+GET http://localhost:5000/todo/new
+
+
+###
+
+DELETE http://localhost:5000/todo/delete/6234b23ecfa857cb3b02c85b
+###
+
+
+PUT http://localhost:5000/todo/complete/6234b6599ce0b27d6aeb6ae6
+
